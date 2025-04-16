@@ -1,0 +1,7 @@
+BASE,SPECIES,STRAIN,NANOPORE,ILLUMINA,SUBPHYLUM,PHYLUM,LOCUS,RNASEQ,DUMMY
+UHM10_S1,Mucor,Mucor,NA,L001,Mucoromycotina,Mucoromycota,UHM10_S1,UHM10_RNA,NA
+UHM23_S2,Mucor,Mucor,NA,L001,Mucoromycotina,Mucoromycota,UHM23_S2,UHM23_RNA,NA
+UHM31_S3,Mucor,Mucor,NA,L001,Mucoromycotina,Mucoromycota,UHM31_S3,UHM31_RNA,NA
+UHM32_S4,Mucor,Mucor,NA,L001,Mucoromycotina,Mucoromycota,UHM32_S4,UHM32_RNA,NA
+UHM35_S5,Mucor,Mucor,NA,L001,Mucoromycotina,Mucoromycota,UHM35_S5,UHM35_RNA,NA
+
